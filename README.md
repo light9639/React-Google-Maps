@@ -119,3 +119,6 @@ function MyComponent() {
 
 export default React.memo(MyComponent)
 ```
+## 📎 출처
+- <a href="https://www.npmjs.com/package/@react-google-maps/api">@react-google-maps/api</a>
+- <a href="https://www.hyeonjun.com/react-google-map-api">React에서 Google Map API 사용하기</a>
